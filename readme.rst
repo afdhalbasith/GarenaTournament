@@ -4,5 +4,4 @@ Garena Tournament Web Form
 
 - PHP (CodeIgniter)
 - MySQL (tournament.sql)
-
-TEST FETCH
+- Some JavaScript
